@@ -1,0 +1,16 @@
+{
+  "name": "nitro-promo-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dollar3795",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "https-proxy-agent": "^5.0.1",
+    "main": "^1000.0.1",
+    "node-fetch": "^2.6.7"
+  }
+}
